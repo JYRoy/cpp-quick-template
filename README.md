@@ -1,5 +1,5 @@
-# cpp-application
-cpp application structure
+# cpp-quick-template
+A repository to help me quickly build cpp project.
 
 ## Structure
 
